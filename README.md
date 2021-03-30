@@ -1,16 +1,19 @@
-### Hi there 👋
+# sunke - @sunkejava
 
-<!--
-**sunkejava/sunkejava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am a software developer, currently mainly developing UWP applications.
 
-Here are some ideas to get you started:
+Willing to develop beautiful and practical applications to help you live a happier life 🎉🎉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sunkejava&layout=compact)
+
+## Application List
+
+
+## About me
+
+![About me](https://github-readme-stats.vercel.app/api?username=sunkejava&show_icons=true&theme=dracula)
+
+## Get in touch
+
+- E-Mail: [declineaberdeen@foxmail.com](mailto:declineaberdeen@foxmail.com)
+- Blogs: [Blog site] [decline](https://www.cnblogs.com/decline)
