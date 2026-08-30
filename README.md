@@ -52,7 +52,7 @@
 | AI 与多媒体 | 本地 LLM、llama.cpp、ROCm / Vulkan、YOLO、OCR、TTS、音视频处理、AI Agent |
 | 工程与交付 | Docker、GitHub Actions、Windows / Linux 单文件发布、日志监控、诊断与自动恢复 |
 
-## 🚀 代表项目
+## 🚀 最近项目
 
 <table>
 <tr>
